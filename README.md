@@ -1,4 +1,4 @@
-### Hi there, I'm Marco :wave:
+### Hi there, I'm Marco
 
 <!--
 **Marco-Di-Tullio/Marco-Di-Tullio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
