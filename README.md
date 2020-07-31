@@ -20,6 +20,13 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/marco-di-tullio-53760b45/)
 <br />
 
+### Latest papers
+- [One-body entanglement as a quantum resource in fermionic systems](https://arxiv.org/abs/2001.03570)
+- [Fermionic entanglement in the Lipkin model](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.062104)
+- [Fermionic Entanglement in Superconducting Systems](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.062109)
+
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
@@ -43,8 +50,3 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 -->
 <br />
-
-### Latest papers
-- [One-body entanglement as a quantum resource in fermionic systems](https://arxiv.org/abs/2001.03570)
-- [Fermionic entanglement in the Lipkin model](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.062104)
-- [Fermionic Entanglement in Superconducting Systems](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.062109)
