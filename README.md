@@ -19,10 +19,8 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/MarcoDiTullio21)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/marco-di-tullio-53760b45/)
 
-<br />
 
 ### Languages and Tools:
-
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 <img align="left" alt="Julia" width="26px" src="https://avatars1.githubusercontent.com/u/743164?s=280&v=4" />
