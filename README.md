@@ -27,11 +27,14 @@
 <img align="left" alt="Julia" width="26px" src="https://avatars1.githubusercontent.com/u/743164?s=280&v=4" />
 <img align="left" alt="Mathematica" width="26px" src="https://lh3.googleusercontent.com/proxy/ocb_EETPLVbyQ_LBzL5pSX9I1Uli_0fTLH0y5l-zBmSCVcB89tFwnb1-MNEHy6UnQ87EhWKBuySL8mke1x6msg0bbI0fabarjj_qGCN8ijHTrOsFdA-D" />
 <img align="left" alt="Qiskit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/1024px-Qiskit-Logo.svg.png" />
-<img align="left" alt="Xanadu" width="26px" src="https://pbs.twimg.com/profile_images/1180820379553546240/g90pOlP__400x400.jpg" />
+<img align="left" alt="Xanadu" width="32px" src="https://pbs.twimg.com/profile_images/1180820379553546240/g90pOlP__400x400.jpg" />
+<img align="left" alt="Zapata" width="32px" src="https://avatars1.githubusercontent.com/u/37746356?s=280&v=4" />
+<img align="center" alt="Dwave" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_dwave.png" />
+
 <img align="left" alt="Atom" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiWysKlz8wkmOvcLZmdxiojcH3Bh4XcRnY7g&usqp=CAU" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7OuH7dMFeUfLaVZvz0UFK8bef6QGGLw8WMQ&usqp=CAU" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
