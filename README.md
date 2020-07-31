@@ -18,7 +18,7 @@
 [<img align="left" alt="codeSTACKr | Scholar" width="22px" src="https://img.favpng.com/7/20/20/google-scholar-education-research-doctor-of-philosophy-png-favpng-dUV9iN3f1E6m53A7thY113J3Y.jpg" />](https://scholar.google.com/citations?user=8fFmpbwAAAAJ&hl=en)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/MarcoDiTullio21)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/marco-di-tullio-53760b45/)
-
+<br />
 
 ### Languages and Tools:
 
@@ -42,10 +42,7 @@
 <!--
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 -->
-
 <br />
-
-
 ### Latest papers
 - [One-body entanglement as a quantum resource in fermionic systems](https://arxiv.org/abs/2001.03570)
 - [Fermionic entanglement in the Lipkin model](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.062104)
