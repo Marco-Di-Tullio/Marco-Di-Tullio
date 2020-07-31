@@ -9,8 +9,9 @@
 - 🔭 Researching fermionic quantum computation
 - 🌱 Currently learning quantum machine learning methods
 - 👯 Looking to collaborate on open source software
+<!--
 -  :smiley: Love climbing  :mount_fuji: and playing the guitar  :guitar:
-
+-->
 
 ### Connect with me:
 
