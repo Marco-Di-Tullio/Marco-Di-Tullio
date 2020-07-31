@@ -29,8 +29,6 @@
 <img align="left" alt="Qiskit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/1024px-Qiskit-Logo.svg.png" />
 <img align="left" alt="Xanadu" width="26px" src="https://pbs.twimg.com/profile_images/1180820379553546240/g90pOlP__400x400.jpg" />
 <img align="left" alt="Atom" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiWysKlz8wkmOvcLZmdxiojcH3Bh4XcRnY7g&usqp=CAU" />
-
-<br />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7OuH7dMFeUfLaVZvz0UFK8bef6QGGLw8WMQ&usqp=CAU" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
