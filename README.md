@@ -4,7 +4,7 @@
 **Marco-Di-Tullio/Marco-Di-Tullio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I'm a PhD candidate in quantum information and entrepreneur 
+## I'm a PhD candidate in quantum information
 
 - 🔭 Researching fermionic quantum computation
 - 🌱 Currently learning quantum machine learning methods
