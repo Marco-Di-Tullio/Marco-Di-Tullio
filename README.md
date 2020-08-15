@@ -31,7 +31,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 <img align="left" alt="Julia" width="26px" src="https://avatars1.githubusercontent.com/u/743164?s=280&v=4" />
-<img align="left" alt="Mathematica" width="26px" src="https://lh3.googleusercontent.com/proxy/ocb_EETPLVbyQ_LBzL5pSX9I1Uli_0fTLH0y5l-zBmSCVcB89tFwnb1-MNEHy6UnQ87EhWKBuySL8mke1x6msg0bbI0fabarjj_qGCN8ijHTrOsFdA-D" />
+<img align="left" alt="Mathematica" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeP0R697Onh7SrpRmD_ttzVIjkjltUnRA4yg&usqp=CAU" />
 <img align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 <img align="left" alt="Pandas" width="53px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/120px-Pandas_logo.svg.png" />
 <img align="left" alt="Seaborn" width="28px" src="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_ux5ew23z/def_height/200/def_width/200/version/100031/type/1" />
