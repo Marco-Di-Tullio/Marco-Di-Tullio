@@ -35,14 +35,14 @@
 <img align="left" alt="Mathematica" width="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeP0R697Onh7SrpRmD_ttzVIjkjltUnRA4yg&usqp=CAU" />
 <img align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 <img align="left" alt="SQL" width="30px" src="https://library.kissclipart.com/20180915/vxq/kissclipart-azure-sql-db-clipart-microsoft-azure-sql-database-60229f0026e240f5.jpg" />
-<img align="left" alt="Pandas" width="53px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/120px-Pandas_logo.svg.png" />
+<img align="left" alt="Pandas" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/120px-Pandas_logo.svg.png" />
 <img align="left" alt="Seaborn" width="28px" src="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_ux5ew23z/def_height/200/def_width/200/version/100031/type/1" />
 <img align="left" alt="Keras" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />
-<img align="left" alt="Pytorch" width="28px" src="https://www.pngitem.com/pimgs/m/31-310639_pytorch-logo-png-transparent-png.png" />
+<!---<img align="left" alt="Pytorch" width="28px" src="https://www.pngitem.com/pimgs/m/31-310639_pytorch-logo-png-transparent-png.png" />-->
 <img align="left" alt="Qiskit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/1024px-Qiskit-Logo.svg.png" />
-<img align="left" alt="Xanadu" width="32px" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1488833662/jlswbdm6omh3ooit8ldj.png" />
+<img align="left" alt="Xanadu" width="30px" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1488833662/jlswbdm6omh3ooit8ldj.png" />
 <img align="left" alt="Zapata" width="32px" src="https://avatars1.githubusercontent.com/u/37746356?s=280&v=4" />
-<img align="left" alt="Dwave" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_dwave.png" />
+<img align="left" alt="Dwave" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_dwave.png" />
 <img align="left" alt="Atom" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiWysKlz8wkmOvcLZmdxiojcH3Bh4XcRnY7g&usqp=CAU" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7OuH7dMFeUfLaVZvz0UFK8bef6QGGLw8WMQ&usqp=CAU" />
