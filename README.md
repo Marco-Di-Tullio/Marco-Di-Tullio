@@ -21,6 +21,7 @@
 <br />
 
 ### Latest papers
+- [Many-body entanglement in fermion systems](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.052424)
 - [One-body entanglement as a quantum resource in fermionic systems](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.042410)
 - [Fermionic entanglement in the Lipkin model](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.062104)
 - [Fermionic Entanglement in Superconducting Systems](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.062109)
